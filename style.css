@@ -9,6 +9,7 @@ body{
     background: url(image/ocean-1867285.jpg)no-repeat;
     background-size: cover;
     background-position-x: center;
+    background-attachment: fixed;
 }
 .navbar>h1{
     margin-left :1em; 
@@ -26,6 +27,7 @@ body{
 .navbar{
     display: flex;
     justify-content: space-between;
+    /* background-color:orange; */
 }
 ul{
     display: inline-flex;
@@ -39,7 +41,7 @@ li{
     /* margin-right: 2rem; */
     padding: 10px;
     font-size: 1.3rem;
-    font-size: 30px;
+    font-size: 20px;
 }
 .footer{
     height: 10vh;
