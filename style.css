@@ -12,13 +12,13 @@ body{
 }
 .navbar>h1{
     margin-left :1em; 
-     font-size:2em;
+     font-size:1em;
 
 
 }
 .navbar>div>img{
-    height: 10vh;
-    width: 17vh;
+    height: 5.9vh;
+    width: 10vh;
 }
 .navbar>div{
      justify-content: space-between;
@@ -36,5 +36,5 @@ a{
 li{
     list-style: none;
     margin-right: 2rem;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
 }
