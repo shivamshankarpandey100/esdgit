@@ -1,9 +1,9 @@
-.{
+/* .{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'popping',sans-serif;
-}
+} */
 body{
     min-height: 100vh;
     background: url(image/ocean-1867285.jpg)no-repeat;
