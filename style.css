@@ -1,0 +1,40 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'popping',sans-serif;
+}
+body{
+    min-height: 100vh;
+    background: url(image/ocean-1867285.jpg)no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+.navbar>h1{
+    margin-left :1em; 
+     font-size:2em;
+
+
+}
+.navbar>div>img{
+    height: 10vh;
+    width: 17vh;
+}
+.navbar>div{
+     justify-content: space-between;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: inline-flex;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    margin-right: 2rem;
+    font-size: 1.8rem;
+}
